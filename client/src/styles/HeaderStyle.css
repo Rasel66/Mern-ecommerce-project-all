@@ -1,0 +1,21 @@
+a.nav-link.cart {
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 5px;
+}
+sup.ant-scroll-number.ant-badge-count {
+  margin-top: 13px;
+}
+a.navbar-brand i {
+  color: darkblue;
+  font-size: 24px;
+}
+.navbar-brand {
+  font-weight: 700;
+  font-family: "roboto", sans-serif;
+  letter-spacing: 3px;
+  color: revert-layer;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  padding: 18px 5px;
+}

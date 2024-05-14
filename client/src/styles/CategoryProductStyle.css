@@ -1,0 +1,53 @@
+h3.text-center.c-title {
+  color: gray;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.category {
+  flex-wrap: wrap;
+  margin-top: 0px !important;
+}
+.category .card {
+  background-color: rgba(128, 128, 128, 0.097);
+  width: 20rem;
+}
+
+.card-price {
+  color: green;
+  font-weight: bold;
+}
+.category button {
+  border-radius: 0;
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.category .card-text {
+  color: rgb(90, 89, 89);
+}
+.card img:hover {
+  transform: scale(0.9);
+}
+
+.category .card-img-top {
+  height: 300px !important;
+}
+a.btn.cat-btn {
+  padding: 31px 0px;
+  font-family: cursive;
+  font-size: 22px;
+  transition: 0.3s;
+}
+a.btn.cat-btn:hover {
+  background: lightgray;
+}
+button.btn.btn-primary.ms-1 {
+  padding: 9px 70px;
+}
+h4.text-center {
+  font-family: cursive;
+}
